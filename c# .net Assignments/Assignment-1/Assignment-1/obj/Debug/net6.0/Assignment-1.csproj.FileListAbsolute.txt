@@ -1,0 +1,15 @@
+D:\train\c# .net Assignments\Assignment-1\Assignment-1\bin\Debug\net6.0\Assignment-1.exe
+D:\train\c# .net Assignments\Assignment-1\Assignment-1\bin\Debug\net6.0\Assignment-1.deps.json
+D:\train\c# .net Assignments\Assignment-1\Assignment-1\bin\Debug\net6.0\Assignment-1.runtimeconfig.json
+D:\train\c# .net Assignments\Assignment-1\Assignment-1\bin\Debug\net6.0\Assignment-1.dll
+D:\train\c# .net Assignments\Assignment-1\Assignment-1\bin\Debug\net6.0\Assignment-1.pdb
+D:\train\c# .net Assignments\Assignment-1\Assignment-1\obj\Debug\net6.0\Assignment-1.csproj.AssemblyReference.cache
+D:\train\c# .net Assignments\Assignment-1\Assignment-1\obj\Debug\net6.0\Assignment-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\train\c# .net Assignments\Assignment-1\Assignment-1\obj\Debug\net6.0\Assignment-1.AssemblyInfoInputs.cache
+D:\train\c# .net Assignments\Assignment-1\Assignment-1\obj\Debug\net6.0\Assignment-1.AssemblyInfo.cs
+D:\train\c# .net Assignments\Assignment-1\Assignment-1\obj\Debug\net6.0\Assignment-1.csproj.CoreCompileInputs.cache
+D:\train\c# .net Assignments\Assignment-1\Assignment-1\obj\Debug\net6.0\Assignment-1.dll
+D:\train\c# .net Assignments\Assignment-1\Assignment-1\obj\Debug\net6.0\refint\Assignment-1.dll
+D:\train\c# .net Assignments\Assignment-1\Assignment-1\obj\Debug\net6.0\Assignment-1.pdb
+D:\train\c# .net Assignments\Assignment-1\Assignment-1\obj\Debug\net6.0\Assignment-1.genruntimeconfig.cache
+D:\train\c# .net Assignments\Assignment-1\Assignment-1\obj\Debug\net6.0\ref\Assignment-1.dll

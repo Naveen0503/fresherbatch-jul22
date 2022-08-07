@@ -1,0 +1,6 @@
+D:\train\c# .net Assignments\Assignment-2\LitwareLib\obj\Debug\LitwareLib.csproj.AssemblyReference.cache
+D:\train\c# .net Assignments\Assignment-2\LitwareLib\obj\Debug\LitwareLib.csproj.CoreCompileInputs.cache
+D:\train\c# .net Assignments\Assignment-2\LitwareLib\bin\Debug\LitwareLib.dll
+D:\train\c# .net Assignments\Assignment-2\LitwareLib\bin\Debug\LitwareLib.pdb
+D:\train\c# .net Assignments\Assignment-2\LitwareLib\obj\Debug\LitwareLib.dll
+D:\train\c# .net Assignments\Assignment-2\LitwareLib\obj\Debug\LitwareLib.pdb

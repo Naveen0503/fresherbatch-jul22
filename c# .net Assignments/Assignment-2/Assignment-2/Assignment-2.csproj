@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Assignment_2</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <StartupObject></StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LitwareLib\LitwareLib.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="LitwareLib">
+      <HintPath>..\LitwareLib\bin\Debug\LitwareLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

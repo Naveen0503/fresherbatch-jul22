@@ -1,0 +1,3 @@
+account number=7999
+name=naveen
+bankbalance=17000

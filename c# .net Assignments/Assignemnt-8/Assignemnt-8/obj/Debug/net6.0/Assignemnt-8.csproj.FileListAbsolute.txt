@@ -1,0 +1,15 @@
+D:\train\c# .net Assignments\Assignemnt-8\Assignemnt-8\bin\Debug\net6.0\Assignemnt-8.exe
+D:\train\c# .net Assignments\Assignemnt-8\Assignemnt-8\bin\Debug\net6.0\Assignemnt-8.deps.json
+D:\train\c# .net Assignments\Assignemnt-8\Assignemnt-8\bin\Debug\net6.0\Assignemnt-8.runtimeconfig.json
+D:\train\c# .net Assignments\Assignemnt-8\Assignemnt-8\bin\Debug\net6.0\Assignemnt-8.dll
+D:\train\c# .net Assignments\Assignemnt-8\Assignemnt-8\bin\Debug\net6.0\Assignemnt-8.pdb
+D:\train\c# .net Assignments\Assignemnt-8\Assignemnt-8\obj\Debug\net6.0\Assignemnt-8.csproj.AssemblyReference.cache
+D:\train\c# .net Assignments\Assignemnt-8\Assignemnt-8\obj\Debug\net6.0\Assignemnt-8.GeneratedMSBuildEditorConfig.editorconfig
+D:\train\c# .net Assignments\Assignemnt-8\Assignemnt-8\obj\Debug\net6.0\Assignemnt-8.AssemblyInfoInputs.cache
+D:\train\c# .net Assignments\Assignemnt-8\Assignemnt-8\obj\Debug\net6.0\Assignemnt-8.AssemblyInfo.cs
+D:\train\c# .net Assignments\Assignemnt-8\Assignemnt-8\obj\Debug\net6.0\Assignemnt-8.csproj.CoreCompileInputs.cache
+D:\train\c# .net Assignments\Assignemnt-8\Assignemnt-8\obj\Debug\net6.0\Assignemnt-8.dll
+D:\train\c# .net Assignments\Assignemnt-8\Assignemnt-8\obj\Debug\net6.0\refint\Assignemnt-8.dll
+D:\train\c# .net Assignments\Assignemnt-8\Assignemnt-8\obj\Debug\net6.0\Assignemnt-8.pdb
+D:\train\c# .net Assignments\Assignemnt-8\Assignemnt-8\obj\Debug\net6.0\Assignemnt-8.genruntimeconfig.cache
+D:\train\c# .net Assignments\Assignemnt-8\Assignemnt-8\obj\Debug\net6.0\ref\Assignemnt-8.dll
