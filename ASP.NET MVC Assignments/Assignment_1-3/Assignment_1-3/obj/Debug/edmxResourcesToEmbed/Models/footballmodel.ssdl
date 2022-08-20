@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="footballModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="FOOTBALL_LEAGUE">
+    <Key>
+      <PropertyRef Name="MatchID" />
+    </Key>
+    <Property Name="MatchID" Type="int" Nullable="false" />
+    <Property Name="TeamName1" Type="nvarchar(max)" />
+    <Property Name="TeamName2" Type="nvarchar(max)" />
+    <Property Name="Status" Type="nvarchar(max)" />
+    <Property Name="WinningTeam" Type="nvarchar(max)" />
+    <Property Name="Points" Type="int" />
+  </EntityType>
+  <Function Name="WonMatchDetails" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <EntityContainer Name="footballModelStoreContainer">
+    <EntitySet Name="FOOTBALL_LEAGUE" EntityType="Self.FOOTBALL_LEAGUE" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
