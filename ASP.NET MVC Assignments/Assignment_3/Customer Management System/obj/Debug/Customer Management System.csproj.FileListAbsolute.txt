@@ -1,0 +1,31 @@
+D:\ASP.NET MVC Assignments\Assignment_3\Customer Management System\bin\Debug\Customer Management System.pdb
+D:\ASP.NET MVC Assignments\Assignment_3\Customer Management System\bin\Debug\EntityFramework.dll
+D:\ASP.NET MVC Assignments\Assignment_3\Customer Management System\bin\Debug\EntityFramework.SqlServer.dll
+D:\ASP.NET MVC Assignments\Assignment_3\Customer Management System\bin\Debug\EntityFramework.xml
+D:\ASP.NET MVC Assignments\Assignment_3\Customer Management System\bin\Debug\EntityFramework.SqlServer.xml
+D:\ASP.NET MVC Assignments\Assignment_3\Customer Management System\obj\Debug\Customer Management System.csproj.AssemblyReference.cache
+D:\ASP.NET MVC Assignments\Assignment_3\Customer Management System\obj\Debug\Customer Management System.csproj.CoreCompileInputs.cache
+D:\ASP.NET MVC Assignments\Assignment_3\Customer Management System\obj\Debug\Customer Management System.csproj.CopyComplete
+D:\ASP.NET MVC Assignments\Assignment_3\Customer Management System\obj\Debug\Customer Management System.pdb
+D:\ASP.NET MVC Assignments\Assignment_3\Customer Management System\bin\Debug\Customer Management System.dll.config
+D:\ASP.NET MVC Assignments\Assignment_3\Customer Management System\bin\Debug\Customer Management System.dll
+D:\ASP.NET MVC Assignments\Assignment_3\Customer Management System\obj\Debug\Customer Management System.dll
+D:\ASP.NET MVC Assignments\Assignment_3\Customer Management System\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\ASP.NET MVC Assignments\Assignment_3\Customer Management System\bin\Debug\System.Web.Helpers.dll
+D:\ASP.NET MVC Assignments\Assignment_3\Customer Management System\bin\Debug\System.Web.Razor.dll
+D:\ASP.NET MVC Assignments\Assignment_3\Customer Management System\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\ASP.NET MVC Assignments\Assignment_3\Customer Management System\bin\Debug\System.Web.WebPages.dll
+D:\ASP.NET MVC Assignments\Assignment_3\Customer Management System\bin\Debug\System.Web.WebPages.Razor.dll
+D:\ASP.NET MVC Assignments\Assignment_3\Customer Management System\bin\Debug\System.Web.Helpers.xml
+D:\ASP.NET MVC Assignments\Assignment_3\Customer Management System\bin\Debug\System.Web.Razor.xml
+D:\ASP.NET MVC Assignments\Assignment_3\Customer Management System\bin\Debug\System.Web.WebPages.xml
+D:\ASP.NET MVC Assignments\Assignment_3\Customer Management System\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\ASP.NET MVC Assignments\Assignment_3\Customer Management System\bin\Debug\System.Web.WebPages.Razor.xml
+D:\ASP.NET MVC Assignments\Assignment_3\Customer Management System\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\ASP.NET MVC Assignments\Assignment_3\Customer Management System\bin\Debug\System.Security.AccessControl.dll
+D:\ASP.NET MVC Assignments\Assignment_3\Customer Management System\bin\Debug\System.Security.Permissions.dll
+D:\ASP.NET MVC Assignments\Assignment_3\Customer Management System\bin\Debug\System.Security.Principal.Windows.dll
+D:\ASP.NET MVC Assignments\Assignment_3\Customer Management System\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\ASP.NET MVC Assignments\Assignment_3\Customer Management System\bin\Debug\System.Security.AccessControl.xml
+D:\ASP.NET MVC Assignments\Assignment_3\Customer Management System\bin\Debug\System.Security.Permissions.xml
+D:\ASP.NET MVC Assignments\Assignment_3\Customer Management System\bin\Debug\System.Security.Principal.Windows.xml
