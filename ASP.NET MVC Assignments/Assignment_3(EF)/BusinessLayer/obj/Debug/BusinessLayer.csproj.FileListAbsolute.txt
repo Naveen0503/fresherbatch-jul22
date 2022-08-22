@@ -1,0 +1,13 @@
+D:\ASP.NET MVC Assignments\Assignment_3(EF)\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+D:\ASP.NET MVC Assignments\Assignment_3(EF)\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\ASP.NET MVC Assignments\Assignment_3(EF)\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\ASP.NET MVC Assignments\Assignment_3(EF)\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\ASP.NET MVC Assignments\Assignment_3(EF)\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\ASP.NET MVC Assignments\Assignment_3(EF)\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\ASP.NET MVC Assignments\Assignment_3(EF)\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\ASP.NET MVC Assignments\Assignment_3(EF)\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\ASP.NET MVC Assignments\Assignment_3(EF)\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\ASP.NET MVC Assignments\Assignment_3(EF)\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+D:\ASP.NET MVC Assignments\Assignment_3(EF)\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\ASP.NET MVC Assignments\Assignment_3(EF)\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\ASP.NET MVC Assignments\Assignment_3(EF)\BusinessLayer\bin\Debug\System.ComponentModel.Annotations.dll
