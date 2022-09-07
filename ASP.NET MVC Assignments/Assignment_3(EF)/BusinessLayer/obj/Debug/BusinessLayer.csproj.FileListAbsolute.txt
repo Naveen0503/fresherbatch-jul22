@@ -11,3 +11,16 @@ D:\ASP.NET MVC Assignments\Assignment_3(EF)\BusinessLayer\obj\Debug\BusinessLaye
 D:\ASP.NET MVC Assignments\Assignment_3(EF)\BusinessLayer\obj\Debug\BusinessLayer.dll
 D:\ASP.NET MVC Assignments\Assignment_3(EF)\BusinessLayer\obj\Debug\BusinessLayer.pdb
 D:\ASP.NET MVC Assignments\Assignment_3(EF)\BusinessLayer\bin\Debug\System.ComponentModel.Annotations.dll
+D:\train\ASP.NET MVC Assignments\Assignment_3(EF)\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+D:\train\ASP.NET MVC Assignments\Assignment_3(EF)\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\train\ASP.NET MVC Assignments\Assignment_3(EF)\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\train\ASP.NET MVC Assignments\Assignment_3(EF)\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\train\ASP.NET MVC Assignments\Assignment_3(EF)\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\train\ASP.NET MVC Assignments\Assignment_3(EF)\BusinessLayer\bin\Debug\System.ComponentModel.Annotations.dll
+D:\train\ASP.NET MVC Assignments\Assignment_3(EF)\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\train\ASP.NET MVC Assignments\Assignment_3(EF)\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\train\ASP.NET MVC Assignments\Assignment_3(EF)\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\train\ASP.NET MVC Assignments\Assignment_3(EF)\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\train\ASP.NET MVC Assignments\Assignment_3(EF)\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+D:\train\ASP.NET MVC Assignments\Assignment_3(EF)\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\train\ASP.NET MVC Assignments\Assignment_3(EF)\BusinessLayer\obj\Debug\BusinessLayer.pdb
