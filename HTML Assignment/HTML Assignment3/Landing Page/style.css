@@ -1,0 +1,207 @@
+body{
+	font-family: 'Lato',sans-serif;
+	font-size: 15px;
+	line-height: 1.5em;
+}
+
+#container{
+	width:70%;
+	margin:10px auto;
+	background-color: white;
+	overflow: auto;
+}
+
+p{
+	margin:10px 0;
+	line-height: 1.5em;
+}
+
+h1{
+	margin:20px 0 10px 0;
+	font-size: 39px;
+	font-weight: bold;
+	line-height:1.2em;
+}
+
+h3{
+	font-size: 22px;
+	margin:10px 0;
+}
+
+h4{
+	font-size: 19px;
+	margin: 10px 0;
+}
+
+strong{
+	font-weight: bold;
+}
+
+.clear-fix{
+	clear:both;
+}
+
+header#main-header{
+	border-bottom: 4px solid #4ea0d8;
+}
+
+#logo{
+	margin:0 auto;
+	display:block;
+}
+
+#main-text{
+	text-align: center;
+	color: #333333;
+	margin-bottom: 30px;
+	padding:10px;
+}
+
+#sub-1{
+	float:left;
+	width: 48%;
+}
+
+#sub-2{
+	float: right;
+	width: 48%;
+
+}
+
+.points li{
+	margin-bottom:30px;
+}
+
+.points img{
+	float:left;
+	margin-right: 7px;
+}
+
+.points h4{
+	padding-top: 5px;
+}
+
+.content-footer{
+	border-top: 1px solid #ddd;
+	margin-bottom:20px;
+	padding-bottom: 10px;
+}
+
+#contact-form{
+	padding:10px 15px 15px 15px; 
+	border:4px solid #4ea0d8;
+	border-radius:10px;
+	background-color:#f4f4f4f4;
+	overflow: auto;
+	
+}
+
+
+#content-footer{
+	border-top: 1px solid #ddd;
+	margin-bottom:20px;
+	padding-bottom: 10px;
+}
+
+#contact-form div{
+	margin-bottom:20px;
+}
+
+#contact-form label{
+	display:inline-block;
+	width:100px;
+	font-weight: bold;
+}
+
+#contact-form input[type="text"],#contact-form input[type="email"]{
+	border:#ccc 1px solid;
+	border-radius:5px;
+	padding: 5px;
+	width: 60%;
+}
+
+
+#contact-form input[type="submit"]{
+	padding: 12px 17px;
+	border:0;
+	border-radius:5px;
+	color:#fff;
+	background-color:#fa6e3e;
+	display:block;
+	float: right;
+}
+
+
+#contact-form input[type="submit"]:hover{
+	background-color: #d55427;
+	cursor:pointer;	
+}
+
+#contact-form #content-footer p{
+	font-style: italic;
+	text-align: center;
+	font-size:80%;
+	color:grey;
+}
+
+#testimonial{
+	margin:40px 0;
+	color:#666;
+	font-style:italic;
+}
+
+#testimonial em{
+	font-weight: bold;
+}
+
+#testimonial img{
+	float:left;
+	margin-right: 20px;
+}
+
+
+#main-footer{
+	text-align: center;
+	border-top:1px solid #ccc;
+	color:#aaa;
+}
+
+@media(max-width:960px){
+	#container{
+		width:80%;
+	}
+	h1{
+		font-size: 22px;
+	}
+
+	#sub-1,#sub-2{
+		float:none;
+		width: 100%;
+	}
+
+	.points li{
+		background-color: #eee;
+		padding:4px;
+		border-radius: 10px;
+	}
+
+	.points img{
+		padding: 6px;
+		margin-right: 2px;
+	}
+
+	#testimonial img{
+		float:none;
+		margin:auto;
+		display: block;
+		margin-bottom: 20px;
+	}
+	
+}
+
+
+
+
+
+
+
